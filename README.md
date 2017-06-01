@@ -5,3 +5,5 @@
 git clone https://github.com/JavaHello/uploadify.git
 mvn package
 mvn tomcat:run
+浏览器打开
+http://localhost:8080/springmvc/resources/uploadify/index.html

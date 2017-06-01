@@ -6,3 +6,5 @@
 2. mvn package
 3. mvn tomcat:run
 4. 浏览器打开:http://localhost:8080/springmvc/resources/uploadify/index.html
+
+##### 注意：需要安装maven、git
